@@ -127,7 +127,7 @@
             <h3>Portfolio</h3>
             <p>
                 Das erste Beispiel ist das Portfolio, in welchem Sie sich bereits befinden. Den Quellcode können Sie auf
-                <a href="https://www.github.com/yetanothercoder00/yetanothercoder00.github.io">Github</a> anschauen.
+                <a href="https://www.github.com/yetanothercoder00/yetanothercoder00.github.io">GitHub</a> anschauen.
             </p>
             <img src={portfolioScreenshot} alt="Screenshot vom Portfolio" />
         </div>
@@ -135,14 +135,14 @@
         <div>
             <h3>Bug Tracker</h3>
             <p>
-                Das zweite Beispiel ist ein "Bug Tracker", welchen ich mit ASP.NET, C# und Microsoft SQL Server gebaut habe. Den Quellcode dafür können Sie auch auf <a href="https://www.github.com/yetanothercoder00/bugtracker">Github</a> finden. Diese Webseite wurde mit dem MVC-Pattern und Entity Framework Core erstellt.
+                Das zweite Beispiel ist ein "Bug Tracker", welchen ich mit ASP.NET, C# und Microsoft SQL Server gebaut habe. Den Quellcode dafür können Sie auch auf <a href="https://www.github.com/yetanothercoder00/bugtracker">GitHub</a> finden. Diese Webseite wurde mit dem MVC-Pattern und Entity Framework Core erstellt.
             </p>
             <img src={bugtracker} alt="Screenshot vom Bug Tracker" />
         </div>
         <div>
             <h3>Instant Messenger</h3>
             <p>
-                Das dritte Beispiel ist ein "Instant Messenger", welcher mithilfe von <a href="https://kit.svelte.dev">SvelteKit</a> gebaut wurde. Hier werden Nachrichten in einer SQLite3 Datenbank auf einem Server gespeichert und in Intervallen von einer Sekunde abgerufen und angezeigt. Den Quellcode können Sie auf <a href="https://www.github.com/yetanothercoder00/instantmessenger">Github</a> finden.
+                Das dritte Beispiel ist ein "Instant Messenger", welcher mithilfe von <a href="https://kit.svelte.dev">SvelteKit</a> gebaut wurde. Hier werden Nachrichten in einer SQLite3 Datenbank auf einem Server gespeichert und in Intervallen von einer Sekunde abgerufen und angezeigt. Den Quellcode können Sie auf <a href="https://www.github.com/yetanothercoder00/instantmessenger">GitHub</a> finden.
             </p>
             <img src={instantMessenger} alt="Screenshot des instant messengers" />
         </div>
@@ -155,10 +155,10 @@
             <embed src={lebenslauf} type="application/pdf">
         </div>
 
-        <div>
-            <h3>Modulnotenübersicht</h3>
-            <embed src={modulnoten} type="application/pdf">
-        </div>
+        <!-- <div> -->
+        <!--     <h3>Modulnotenübersicht</h3> -->
+        <!--     <embed src={modulnoten} type="application/pdf"> -->
+        <!-- </div> -->
     </div>
     
 </div>
