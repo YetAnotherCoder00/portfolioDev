@@ -155,10 +155,10 @@
             <embed src={lebenslauf} type="application/pdf">
         </div>
 
-        <!-- <div> -->
-        <!--     <h3>Modulnotenübersicht</h3> -->
-        <!--     <embed src={modulnoten} type="application/pdf"> -->
-        <!-- </div> -->
+         <div> 
+             <h3>Modulnotenübersicht</h3> 
+             <embed src={modulnoten} type="application/pdf"> 
+         </div> 
     </div>
     
 </div>
